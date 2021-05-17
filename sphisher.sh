@@ -136,8 +136,8 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		${ORANGE}            _     _     _               
+	${ORANGE}
+	${ORANGE}            _     _     _               
         ${ORANGE}           | |   (_)   | |              
         ${ORANGE}  ___ _ __ | |__  _ ___| |__   ___ _ __ 
         ${ORANGE} / __| '_ \| '_ \| / __| '_ \ / _ \ '__|
@@ -146,14 +146,14 @@ banner() {
         ${ORANGE}      | |                                
         ${ORANGE}      |_|                                
         ${ORANGE}
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by SSLRI (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by SSLRI (Saeed Salari)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}  ___  ____  _   _  ____  ___  _   _  ____  ____ 
+        ${BLUE}  ___  ____  _   _  ____  ___  _   _  ____  ____ 
         ${BLUE} / __)(  _ \( )_( )(_  _)/ __)( )_( )( ___)(  _ \
         ${BLUE} \__ \ )___/ ) _ (  _)(_ \__ \ ) _ (  )__)  )   /
         ${BLUE} (___/(__)  (_) (_)(____)(___/(_) (_)(____)(_)\_) 
