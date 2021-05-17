@@ -40,7 +40,7 @@
 $ git clone git://github.com/sslri/sphisher.git
 ```
 
-- Change to cloned directory and run `sphisher.sh` -
+- Change to cloned directory and  run `sphisher.sh` -
 ```
 $ cd sphisher
 $ bash sphisher.sh
