@@ -1,5 +1,0 @@
-<form method="post" action="save.php">
-  <input name="username" placeholder="Username">
-  <input name="password" placeholder="Password" type="password">
-  <button type="submit">Login</button>
-</form>
